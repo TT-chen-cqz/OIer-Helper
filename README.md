@@ -17,7 +17,7 @@
 
 ## 安装
 
-前往 SkillHub 安装：[https://skillhub.cn/skills/oier-helper](https://skillhub.cn/skills/oier-helper)
+前往官网安装：<https://o.tt-chen.cc.cd/install/>
 
 ## 使用方式
 
@@ -28,16 +28,8 @@
 - 题目链接 + 代码：自动 Debug
 - 算法名 + "推荐题"/"找题"（如 `有没有树形DP的题`）：自动搜索推荐
 
-## 代码规范
-
-- 默认语言：C++17
-- 不使用 `#define int long long`
-- 包含 `ios::sync_with_stdio(false); cin.tie(nullptr);`
-- 变量命名清晰，关键部分有注释
-- **Skill 不会编译或运行任何代码，所有代码需用户自行测试**
-
 ## 版权声明
 
 本 Skill 仅总结公开题解的思路，不搬运他人的完整代码，不绕过网站访问限制，**请遵守社区规则，保证学术规范**。
 
-本 Skill 以 GPL-3.0 license 开源，**请遵守开源协议！**
+[GNU General Public License v3.0](https://github.com/TT-chen-cqz/OIer-Helper/blob/main/LICENSE)
